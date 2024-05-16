@@ -10,7 +10,7 @@ elif doenca_infectocontagiosa=="NAO":
 else:
     print("Responda a suspeita de doença infectocontagiosa com SIM ou NAO")
 
-# SEGUNDO PROBLEMA A SER RESOLVIDO
+# SEGUNDO PROBLEMA A SER RESOLVIDO!!!
 if idade >= 65:
     print("Paciente COM prioridade")
 else:
